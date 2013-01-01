@@ -1,7 +1,7 @@
 {
   "name": "passport-local-forms",
   "version": "0.1.0",
-  "description": "Local username and password authentication strategy for Passport via forms.",
+  "description": "Local username and password authentication strategy for Passport via Forms.",
   "author": { "name": "Adam Doyle", "email": "adamldoyle@gmail.com", "url": "http://adamldoyle.com/" },
   "repository": {
     "type": "git",
