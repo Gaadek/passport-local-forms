@@ -1,0 +1,12 @@
+{
+  "name": "passport-local-examples-login",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "2.x.x",
+    "ejs": ">= 0.0.0",
+    "passport": ">= 0.0.0",
+    "passport-local": ">= 0.0.0",
+    "passport-local-forms": ">= 0.0.0",
+    "forms": ">= 0.0.0"
+  }
+}

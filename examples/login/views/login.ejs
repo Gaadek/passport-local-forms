@@ -1,0 +1,10 @@
+<% if (message) { %>
+<p><%= message %></p>
+<% } %>
+<form action="/login" method="post">
+	<%- loginForm.toHTML() %>
+	<div>
+	<input type="submit" value="Submit"/>
+	</div>
+</form>
+<p><small>Hint - bob:secret</small></p>
